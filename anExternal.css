@@ -1,5 +1,9 @@
-
 	img {
     float: right;
     margin: 0 0 10px 10px;
+    border-radius: 50px;
+    width: 304px;
+}
+p {
+    border: 5px solid red;
 }
